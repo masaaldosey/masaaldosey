@@ -1,8 +1,8 @@
 # Hi, I am Leela!
 
 ![GitHub User's stars](https://img.shields.io/github/stars/masaaldosey?affiliations=OWNER%2CCOLLABORATOR&color=orange&label=total%20stars%20earned&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/masaaldosey?color=blue&label=twitter%20followers&style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmg8AhLPvlZOP9FwVpuVqMw?label=YouTube%20Channel&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/masaaldosey?color=blue&label=twitter%20followers&style=for-the-badge)](https://twitter.com/masaaldosey)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmg8AhLPvlZOP9FwVpuVqMw?label=YouTube%20Channel&style=for-the-badge)](https://www.youtube.com/channel/UCmg8AhLPvlZOP9FwVpuVqMw)
 
 
 - I am mostly interested in anything related to Software Development and Game Development in general. I have experience in the areas of Machine Learning and Deep Learning. You can see this by following my pinned repos and the carreer path on [LinkedIn](https://www.linkedin.com/in/prabhat-reddy/). I have a M.Sc. in Computational Science from the Technical University of Munich, from the [Chair of Scientific Computing](https://https://www.cs.cit.tum.de/en/sccs/home/).
