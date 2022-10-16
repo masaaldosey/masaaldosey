@@ -20,5 +20,3 @@
   - Rishith Ellath Meethal, Leela Sai Prabhat Reddy Kondamadugula, [“Generalized Physics-Informed Machine Learning for Numerically Solved Transient Physical Systems,”](https://www.researchgate.net/profile/Rishith-Ellath-Meethal/publication/360619451_Generalized_Physics-Informed_Machine_Learning_for_Numerically_Solved_Transient_Physical_Systems/links/6281f85e973bbb29cc825ef5/Generalized-Physics-Informed-Machine-Learning-for-Numerically-Solved-Transient-Physical-Systems.pdf) in Association for the Advancement of Artificial Intelligence - Machine Learning with Physical Sciences (AAAI-MLPS), 2021
   ---------
   </details>
-
-- I am currently learning C++ and trying to get better at Chess.
