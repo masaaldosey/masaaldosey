@@ -1,7 +1,5 @@
 # Hi, I am Leela!
 
-![GitHub User's stars](https://img.shields.io/github/stars/masaaldosey?affiliations=OWNER%2CCOLLABORATOR&color=orange&label=total%20stars%20earned&style=for-the-badge)
-[![Twitter Follow](https://img.shields.io/twitter/follow/masaaldosey?color=blue&label=twitter%20followers&style=for-the-badge)](https://twitter.com/masaaldosey)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmg8AhLPvlZOP9FwVpuVqMw?label=YouTube%20Channel&style=for-the-badge)](https://www.youtube.com/channel/UCmg8AhLPvlZOP9FwVpuVqMw)
 
 
